@@ -15,7 +15,6 @@ public class P5 {
      *
      * @param args arguments from command line prompt
      */
-
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         char vote;

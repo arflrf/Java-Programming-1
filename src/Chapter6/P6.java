@@ -15,7 +15,6 @@ public class P6 {
      *
      * @param args arguments from command line prompt
      */
-
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         System.out.println("How many Euros can $1 buy? (Recommended .86 Euro = $1 dollar): ");
@@ -84,7 +83,6 @@ public class P6 {
      * @return the final amount of converted currency
      *
      */
-
     public static double CurrencyConversion(double dollars, double type) {
         if (dollars > 100) {
             dollars = dollars - (dollars * .05);

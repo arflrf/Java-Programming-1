@@ -15,7 +15,6 @@ public class C5_34 {
      *
      * @param args arguments from command line prompt
      */
-
     public static void main(String[] args) {
         int compWins = 0;
         int userWins = 0;
